@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Автозапись звонков</string>
+    <string name="recorder_test_title">Автозапись звонков</string>
+    <string name="recorder_test_hint">Сделайте один входящий и один исходящий звонок. Откройте обе записи и проверьте, слышно ли оба голоса.</string>
+    <string name="recorder_test_origin">Независимая версия ShizuCallRecorder для проверки записи на HONOR.</string>
+    <string name="recorder_test_source">Исходный проект</string>
+</resources>

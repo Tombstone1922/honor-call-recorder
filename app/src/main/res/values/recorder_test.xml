@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recorder_test_title">Automatic call recording</string>
+    <string name="recorder_test_hint">Run one incoming and one outgoing call. Open both saved files and check that they contain both voices.</string>
+    <string name="recorder_test_origin">Independent fork of ShizuCallRecorder for testing on HONOR phones.</string>
+    <string name="recorder_test_source">Original project</string>
+</resources>
